@@ -3,6 +3,7 @@
 .tylor_expansion/src/
 .tylor_expansion/build/
 .tylor_expansion/generate_so.py
+.tylor_expansion/so/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
