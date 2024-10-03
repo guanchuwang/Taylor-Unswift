@@ -1,4 +1,4 @@
-This is the official codes for Secured Weight Access for Large Language Models via Taylor Expansion.
+This is the official codes for Taylor Unswift: Secured Weight Access for Large Language Models via Taylor Expansion.
 
 
 ## Dependency
@@ -24,5 +24,5 @@ python protection/llama_protection.py
 python protection/llama_wikitext_test.py
 ```
 
-TaylorMLP takes around 4x latency compared with the original Llama-3-8B.
+Results: TaylorMLP takes around 4x latency compared with the original Llama-3-8B.
 
