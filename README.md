@@ -1,5 +1,4 @@
 This is the official codes for Secured Weight Access for Large Language Models via Taylor Expansion.
-**FOR REVIEW ONLY, DO NOT DISTRIBUTE**
 
 ## Dependency
 
